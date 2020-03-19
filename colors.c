@@ -45,7 +45,7 @@ PortFunctionInit(void)
     //Now modify the configuration of the pins that we unlocked.
     //
 	
-	  //
+    //
     // Enable pin PF0 for GPIOInput
     //
     GPIOPinTypeGPIOInput(GPIO_PORTF_BASE, SW2);
